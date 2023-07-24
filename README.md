@@ -1,7 +1,7 @@
 # Fresh Zest
   This is an online restaurant website where you can buy different food and beverages.
   
-# Fresh Zest ins React & Redux + Django
+# Fresh Zest in React & Redux + Django
   Fresh Zest, withfrontedn built in React& Reduxand a backendbuilt with Django API
 
 ## Live Demo :
